@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="#about">About</a> ·
-  <a href="#technical-skills">Technical skills</a> ·
-  <a href="#selected-work">Selected work</a> ·
-  <a href="#current-project">Current project</a> ·
-  <a href="#education">Education</a>
+  <a href="#user-content-about">About</a> ·
+  <a href="#user-content-technical-skills">Technical skills</a> ·
+  <a href="#user-content-selected-work">Selected work</a> ·
+  <a href="#user-content-current-project">Current project</a> ·
+  <a href="#user-content-education">Education</a>
 </p>
 
 ---
