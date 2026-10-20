@@ -56,7 +56,7 @@ My engineering interests include maintainable application architecture, separati
 Business applications for the **Iran Chamber of Commerce, Industries, Mines and Agriculture**.
 
 - **Role:** Frontend developer; UI/UX design.
-- **Stack:** React.
+- **Stack:** React, Next.js.
 - **Scope:** Membership/commercial card workflows and user management.
 
 ### Online Steel Marketplace · 7ahan.com
